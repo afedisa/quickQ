@@ -6,8 +6,6 @@ API for managing queues and services using a microservices architecture with Nes
 
 Modular system for managing organizations, establishments, users, turns, and waiting areas. It uses RabbitMQ for inter-service communication and MariaDB as the database. It includes a full monitoring stack with Prometheus, Grafana, Loki, and Promtail.
 
-![Description](docs/images/readme-description.png)
-
 ## Disclaimer
 
 This repository is intended for **documentation and informational purposes only**.
