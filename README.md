@@ -302,5 +302,3 @@ npm run typeorm -- <command>
 ## License
 
 UNLICENSED
-
-![License](docs/images/readme-license.png)

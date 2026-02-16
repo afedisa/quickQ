@@ -1,2 +1,3 @@
 .venv
-scripts
+scripts/
+scripts/generate_readme_images.py
