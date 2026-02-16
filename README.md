@@ -8,6 +8,14 @@ Modular system for managing organizations, establishments, users, turns, and wai
 
 ![Description](docs/images/readme-description.png)
 
+## Disclaimer
+
+This repository is intended for **documentation and informational purposes only**.
+
+The actual source code is private.  
+For access to the codebase or further details, please get in touch with the repository owner.
+
+
 ## Architecture
 
 ### Microservices
